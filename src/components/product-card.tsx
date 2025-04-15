@@ -11,13 +11,15 @@ interface ProductCardProps {
 export function ProductCard({ product }: ProductCardProps) {
   return (
     <Card className="overflow-hidden transition-all duration-200 hover:shadow-lg">
-      <div className="aspect-square overflow-hidden">
-        <img
-          src={product.thumbnail || "/placeholder.svg"}
-          alt={product.name}
-          className="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
-        />
-      </div>
+      <Link to={`/product/${product.id}`}>
+        <div className="aspect-square overflow-hidden">
+          <img
+            src={product.thumbnail || "/placeholder.svg"}
+            alt={product.name}
+            className="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
+          />
+        </div>
+      </Link>
       <CardContent className="p-4">
         <h3 className="text-lg font-semibold">{product.name}</h3>
       </CardContent>

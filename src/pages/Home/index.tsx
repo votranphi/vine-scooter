@@ -99,7 +99,7 @@ export default function Home() {
                   />
                   <Search className="absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
                 </div>
-                <Button variant="ghost" size="icon" className="relative text-white hover:bg-gray-700">
+                <Button variant="ghost" size="icon" className="relative text-white hover:bg-gray-700 cursor-pointer">
                   <ShoppingCart className="h-5 w-5" />
                   <span className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-red-500 text-xs font-bold">
                     0
@@ -153,7 +153,7 @@ export default function Home() {
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <Link to={'https://zalo.me/0962728123'} target="blank">
                 <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white cursor-pointer">
-                  Contact now
+                  Liên hệ ngay
                 </Button>
               </Link>
             </div>
