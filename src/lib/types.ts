@@ -4,6 +4,7 @@ export interface Product {
   thumbnail: string
   price: string
   images?: string[]
+  details?: string
 }
 
 export interface ProductsResponse {
