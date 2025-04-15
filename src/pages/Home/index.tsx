@@ -163,7 +163,7 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
-        <h2 className="text-2xl font-bold mb-6 text-center md:text-left">Our Products</h2>
+        <h2 className="text-2xl font-bold mb-6 text-center md:text-left">Sản phẩm của chúng tôi</h2>
 
         {/* Products Grid */}
         {loading ? (
