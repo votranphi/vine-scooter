@@ -2,7 +2,7 @@
     "products": {
         "q7": {
             "id": "q7",
-            "name": "Xe điện Scooter Q7",
+            "name": "Sealup Q7",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q7_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -19,7 +19,7 @@
         },
         "q8": {
             "id": "q8",
-            "name": "Xe điện Scooter Q8",
+            "name": "Sealup Q8",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q8_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -36,7 +36,7 @@
         },
         "q9": {
             "id": "q9",
-            "name": "Xe điện Scooter Q9",
+            "name": "Sealup Q9",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q9_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -50,7 +50,7 @@
         },
         "q10": {
             "id": "q10",
-            "name": "Xe điện Scooter Q10",
+            "name": "Sealup Q10",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q10_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -67,7 +67,7 @@
         },
         "q13": {
             "id": "q13",
-            "name": "Xe điện Scooter Q13",
+            "name": "Sealup Q13",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q13_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -83,7 +83,7 @@
         },
         "q23": {
             "id": "q23",
-            "name": "Xe điện Scooter Q23",
+            "name": "Sealup Q23",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q23_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -100,7 +100,7 @@
         },
         "q27": {
             "id": "q27",
-            "name": "Xe điện Scooter Q27",
+            "name": "Sealup Q27",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q27_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -117,7 +117,7 @@
         },
         "q28": {
             "id": "q28",
-            "name": "Xe điện Scooter Q28",
+            "name": "Sealup Q28",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q28_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -132,7 +132,7 @@
         },
         "q29": {
             "id": "q29",
-            "name": "Xe điện Scooter Q29",
+            "name": "Sealup Q29",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/q29_1.jpg",
             "price": "Liên hệ",
             "images": [
@@ -150,7 +150,7 @@
         },
         "sunra400w": {
             "id": "sunra400w",
-            "name": "Xe điện Sunra 400W",
+            "name": "Sunra 400W",
             "thumbnail": "https://vinescooter.blob.core.windows.net/vinescooter-container/sunra400w_1.jpg",
             "price": "Liên hệ",
             "images": [
