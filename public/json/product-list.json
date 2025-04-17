@@ -15,7 +15,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q7_7.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q7_8.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q8": {
             "id": "q8",
@@ -32,7 +32,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q8_7.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q8_8.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q9": {
             "id": "q9",
@@ -46,7 +46,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q9_4.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q9_5.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q10": {
             "id": "q10",
@@ -63,7 +63,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q10_7.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q10_8.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q13": {
             "id": "q13",
@@ -79,7 +79,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q13_6.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q13_7.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q23": {
             "id": "q23",
@@ -96,7 +96,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q23_7.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q23_8.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q27": {
             "id": "q27",
@@ -113,7 +113,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q27_7.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q27_8.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q28": {
             "id": "q28",
@@ -128,7 +128,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q28_5.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q28_6.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "q29": {
             "id": "q29",
@@ -146,7 +146,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q29_8.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/q29_9.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         },
         "sunra400w": {
             "id": "sunra400w",
@@ -161,7 +161,7 @@
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/sunra400w_5.jpg",
                 "https://vinescooter.blob.core.windows.net/vinescooter-container/sunra400w_6.jpg"
             ],
-            "details": "Details in line 1\nDetails in line 2\nDetails in line 3"
+            "details": "Detail in line 1\nDetail in line 2\nDetail in line 3"
         }
     }
 }
