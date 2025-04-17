@@ -276,8 +276,8 @@ export default function ProductDetails() {
                   <MapPin className="h-4 w-4 text-red-500" />
                   Địa chỉ cửa hàng
                 </h3>
-                <p className="text-sm text-gray-600">Số 123 Đường ABC, Quận XYZ, Hà Nội</p>
-                <p className="text-sm text-gray-600 mt-1">Số 456 Đường DEF, Quận UVW, TP. Hồ Chí Minh</p>
+                <p className="text-sm text-gray-600">41/16 Cầu Xây, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</p>
+                {/* <p className="text-sm text-gray-600 mt-1">Số 456 Đường DEF, Quận UVW, TP. Hồ Chí Minh</p> */}
               </div>
             </div>
           </div>
@@ -297,11 +297,11 @@ export default function ProductDetails() {
               <ul className="space-y-2 text-gray-400 text-sm">
                 <li className="flex items-center gap-2">
                   <Phone className="h-4 w-4" />
-                  <span>096 272 8123</span>
+                  <span>0962 728 123</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <MapPin className="h-4 w-4" />
-                  <span>41/16 Cầu Xây, phường Tân Phú, thành phố Thủ Đức, Thành phố Hồ Chí Minh</span>
+                  <span>41/16 Cầu Xây, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</span>
                 </li>
               </ul>
             </div>

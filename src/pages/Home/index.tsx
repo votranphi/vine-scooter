@@ -351,15 +351,15 @@ export default function Home() {
               <ul className="space-y-3">
                 <li className="flex items-start">
                   <MapPin className="h-5 w-5 mr-2 text-red-500 flex-shrink-0 mt-0.5" />
-                  <span>41/16 Cầu Xây, phường Tân Phú, thành phố Thủ Đức, Thành phố Hồ Chí Minh</span>
+                  <span>41/16 Cầu Xây, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh</span>
                 </li>
                 <li className="flex items-center">
                   <Phone className="h-5 w-5 mr-2 text-red-500" />
-                  <span>+84 962 728 123</span>
+                  <span>0962 728 123</span>
                 </li>
                 <li className="flex items-center">
                   <Mail className="h-5 w-5 mr-2 text-red-500" />
-                  <span>contact@vinescooter.vn</span>
+                  <span>placeholder@placeholder.placeholder</span>
                 </li>
               </ul>
             </div>
