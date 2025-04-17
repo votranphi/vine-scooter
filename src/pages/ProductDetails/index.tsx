@@ -225,7 +225,6 @@ export default function ProductDetails() {
               {/* Price */}
               <div className="bg-red-50 rounded-lg p-4 border border-red-100">
                 <p className="text-xl md:text-2xl font-semibold text-red-600">Giá: {product.price}</p>
-                <p className="text-sm text-gray-600 mt-1">Đã bao gồm thuế VAT</p>
               </div>
 
               {/* Product details */}
@@ -280,26 +279,6 @@ export default function ProductDetails() {
                 <p className="text-sm text-gray-600">Số 123 Đường ABC, Quận XYZ, Hà Nội</p>
                 <p className="text-sm text-gray-600 mt-1">Số 456 Đường DEF, Quận UVW, TP. Hồ Chí Minh</p>
               </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Related products section (placeholder) */}
-        <div className="mt-12">
-          <h2 className="text-2xl font-bold mb-6 text-center">Sản phẩm tương tự</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {/* Would integrate with actual related products data */}
-            <div className="bg-white rounded-lg shadow border p-4 h-48 flex items-center justify-center">
-              <p className="text-gray-400 text-center">Sản phẩm tương tự sẽ hiển thị ở đây</p>
-            </div>
-            <div className="bg-white rounded-lg shadow border p-4 h-48 flex items-center justify-center">
-              <p className="text-gray-400 text-center">Sản phẩm tương tự sẽ hiển thị ở đây</p>
-            </div>
-            <div className="hidden md:flex bg-white rounded-lg shadow border p-4 h-48 items-center justify-center">
-              <p className="text-gray-400 text-center">Sản phẩm tương tự sẽ hiển thị ở đây</p>
-            </div>
-            <div className="hidden md:flex bg-white rounded-lg shadow border p-4 h-48 items-center justify-center">
-              <p className="text-gray-400 text-center">Sản phẩm tương tự sẽ hiển thị ở đây</p>
             </div>
           </div>
         </div>
