@@ -105,7 +105,9 @@ export default function ProductDetails() {
                 alt="Vine Scooter Logo"
                 className="h-10 w-auto"
               />
-              <h1 className="text-xl font-bold hidden sm:block">Vine Scooter</h1>
+              <h1 className="text-xl font-bold hidden sm:block bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent tracking-tight">
+                <span className="text-red-500">Vine</span> Scooter
+              </h1>
             </Link>
             <div className="flex items-center space-x-4">
               <Button variant="ghost" size="sm" className="text-white hover:bg-gray-700">
@@ -191,9 +193,8 @@ export default function ProductDetails() {
                     <button
                       key={index}
                       onClick={() => setSelectedImage(image)}
-                      className={`flex-shrink-0 border rounded-lg overflow-hidden transition-all duration-200 cursor-pointer hover:shadow-md ${
-                        selectedImage === image ? "border-red-500 ring-2 ring-red-500 scale-105" : "border-gray-200"
-                      }`}
+                      className={`flex-shrink-0 border rounded-lg overflow-hidden transition-all duration-200 cursor-pointer hover:shadow-md ${selectedImage === image ? "border-red-500 ring-2 ring-red-500 scale-105" : "border-gray-200"
+                        }`}
                     >
                       <img
                         src={image || "/placeholder.svg"}
