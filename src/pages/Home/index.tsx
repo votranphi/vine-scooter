@@ -50,11 +50,11 @@ export default function Home() {
             <div className="flex items-center space-x-4">
               <div className="flex items-center">
                 <Phone className="mr-1 h-3 w-3" />
-                <span>+84 962 728 123</span>
+                <span>0962 728 123</span>
               </div>
               <div className="hidden md:flex items-center">
                 <Mail className="mr-1 h-3 w-3" />
-                <span>contact@vinescooter.vn</span>
+                <span>placeholder@placeholder.placeholder</span>
               </div>
             </div>
             <div className="flex items-center space-x-4">
@@ -80,7 +80,9 @@ export default function Home() {
                 alt="Vine Scooter Logo"
                 className="h-12 w-auto"
               />
-              <h1 className="hidden text-2xl font-bold md:block">Vine Scooter</h1>
+              <h1 className="hidden text-2xl font-bold md:block bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent tracking-tight">
+                <span className="text-red-500">Vine</span> Scooter
+              </h1>
             </div>
 
             {/* Mobile Menu Button */}
@@ -221,7 +223,7 @@ export default function Home() {
             <h2 className="text-3xl font-bold mb-4">Tại sao chọn Vine Scooter?</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">Chúng tôi cung cấp những sản phẩm chất lượng cao với nhiều ưu điểm vượt trội</p>
           </div>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition-shadow border border-gray-100 text-center">
               <div className="bg-red-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
@@ -232,7 +234,7 @@ export default function Home() {
               <h3 className="text-xl font-bold mb-2">Hiệu suất cao</h3>
               <p className="text-gray-600">Động cơ mạnh mẽ, vận hành êm ái và tiết kiệm năng lượng.</p>
             </div>
-            
+
             <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition-shadow border border-gray-100 text-center">
               <div className="bg-red-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -242,7 +244,7 @@ export default function Home() {
               <h3 className="text-xl font-bold mb-2">An toàn & Bền bỉ</h3>
               <p className="text-gray-600">Thiết kế chắc chắn, hệ thống phanh an toàn và tuổi thọ pin cao.</p>
             </div>
-            
+
             <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition-shadow border border-gray-100 text-center">
               <div className="bg-red-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -345,7 +347,7 @@ export default function Home() {
                 </a>
               </div>
             </div>
-            
+
             <div>
               <h3 className="text-lg font-semibold text-white mb-4">Thông tin liên hệ</h3>
               <ul className="space-y-3">
@@ -363,7 +365,7 @@ export default function Home() {
                 </li>
               </ul>
             </div>
-            
+
             <div>
               <h3 className="text-lg font-semibold text-white mb-4">Liên kết nhanh</h3>
               <ul className="space-y-2">
@@ -385,7 +387,7 @@ export default function Home() {
               </ul>
             </div>
           </div>
-          
+
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
             <p>© {new Date().getFullYear()} Vine Scooter. All rights reserved.</p>
           </div>
