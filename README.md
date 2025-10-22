@@ -62,3 +62,7 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions and feedback are welcome! Feel free to open issues or submit pull requests.
+
+## 📄 License
+
+This project is available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
